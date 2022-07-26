@@ -1,0 +1,16 @@
+#navbar {
+  padding: 0;
+  margin: 0;
+  left: 0;
+  background-color: var(--black-bg-nav);
+  min-height: 100vh;
+  max-width: 10vw;
+}
+
+#navbar button {
+  max-width: 75%;
+  margin-top: 10vh;
+  background-size: auto;
+  border: none;
+  background: transparent;
+}

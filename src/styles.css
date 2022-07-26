@@ -1,0 +1,56 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+@import '~swiper/swiper-bundle.css';
+
+:root {
+
+  /* Colors: */
+  --unnamed-color-123b2a: #123B2A;
+  --grey: #3D3D3D;
+  --cyan: #2DECAD;
+  --cyan-dark: #123B2A;
+  --lime: #45E760;
+  --lime-dark: #153A19;
+  --black-bg-main: #1D1D1D;
+  --black-bg-nav: #181818;
+  --black-cmd-bg: #2A2A2A;
+  --black-cmd-nav: #262626;
+  --red: #DC143C;
+
+}
+
+@font-face {
+  font-family: CaviarDreams;
+  src: url(./assets/fonts/CaviarDreams.ttf);
+}
+
+@font-face {
+  font-family: CaviarDreamsBold;
+  src: url(./assets/fonts/CaviarDreams_Bold.ttf);
+}
+
+@font-face {
+  font-family: CaviarDreamsItalic;
+  src: url(./assets/fonts/CaviarDreams_Italic.ttf);
+}
+
+@font-face {
+  font-family: CaviarDreamsBoldIta;
+  src: url(./assets/fonts/CaviarDreams_BoldItalic.ttf);
+
+}
+
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: CaviarDreams, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}

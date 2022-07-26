@@ -1,0 +1,35 @@
+<swiper
+  class="mySwiper swiper-v"
+  [direction]="'vertical'"
+  [spaceBetween]="0"
+  [mousewheel]= true
+  [pagination]="{
+      clickable: true
+    }"
+  [keyboard]="{
+    enabled: true
+  }"
+>
+  <ng-template swiperSlide><app-home></app-home></ng-template>
+  <ng-template swiperSlide>
+    <swiper
+      class="mySwiper2 swiper-h"
+      [spaceBetween]="0"
+      [mousewheel]= true
+      [pagination]="{
+      clickable: true
+    }"
+      [keyboard]="{
+    enabled: true
+  }"
+    >
+      <ng-template swiperSlide><app-resume></app-resume></ng-template>
+      <ng-template swiperSlide>Vertical Slide 2</ng-template>
+      <ng-template swiperSlide>Vertical Slide 3</ng-template>
+      <ng-template swiperSlide>Vertical Slide 4</ng-template>
+      <ng-template swiperSlide>Vertical Slide 5</ng-template>
+    </swiper>
+  </ng-template>
+  <ng-template swiperSlide>Horizontal Slide 3</ng-template>
+  <ng-template swiperSlide>Horizontal Slide 4</ng-template>
+</swiper>

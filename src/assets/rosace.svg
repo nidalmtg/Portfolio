@@ -1,0 +1,17 @@
+<svg id="rosace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="644" height="622" viewBox="0 0 644 622">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="322" height="311" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grille_de_répétition_1" data-name="Grille de répétition 1" clip-path="url(#clip-path)">
+    <g transform="translate(-1421)">
+      <path id="Polygone_2" data-name="Polygone 2" d="M161,0l30.59,187.637L322,311,161,246.727,0,311,130.41,187.637Z" transform="translate(1421)" fill="#2decad"/>
+    </g>
+  </g>
+  <path id="Polygone_4" data-name="Polygone 4" d="M161,0l30.59,187.637L322,311,161,246.727,0,311,130.41,187.637Z" transform="translate(483 311) rotate(180)" fill="#45e760" opacity="0.9"/>
+  <path id="Polygone_5" data-name="Polygone 5" d="M161,0l30.59,187.637L322,311,161,246.727,0,311,130.41,187.637Z" transform="translate(322)" fill="#2decad"/>
+  <path id="Polygone_5-2" data-name="Polygone 5" d="M161,0l30.59,187.637L322,311,161,246.727,0,311,130.41,187.637Z" transform="translate(161 311)" fill="#2decad"/>
+  <path id="Polygone_6" data-name="Polygone 6" d="M161,0l30.59,187.637L322,311,161,246.727,0,311,130.41,187.637Z" transform="translate(322 622) rotate(180)" fill="#45e760" opacity="0.9"/>
+  <path id="Polygone_7" data-name="Polygone 7" d="M161,0l30.59,187.637L322,311,161,246.727,0,311,130.41,187.637Z" transform="translate(644 622) rotate(180)" fill="#45e760" opacity="0.9"/>
+</svg>

@@ -1,0 +1,29 @@
+#resume {
+  background-color: var(--black-bg-main);
+}
+
+app-navbar {
+  margin: 0;
+  padding: 0;
+}
+
+.cmd {
+  min-width: 70vw;
+  min-height: 80vh;
+  margin-top: 10vh;
+}
+
+.cmd-nav {
+  height: 14vh;
+  background: var(--black-cmd-nav) 0 0 no-repeat padding-box;
+  box-shadow: inset 0 3px 6px #00000029;
+  border-radius: 20px 20px 0 0;
+  opacity: 1;
+}
+
+.cmd-body {
+  height: 66vh;
+  background: var(--black-cmd-bg) 0 0 no-repeat padding-box;
+  box-shadow: inset 0 3px 6px #00000029;
+  border-radius: 0 0 20px 20px;
+}
